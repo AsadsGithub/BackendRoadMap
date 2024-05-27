@@ -3,7 +3,7 @@
 This roadmap guides you from a beginner to an expert in PHP within a month, with an 8-hour study plan each day, 5 days a week. It covers major topics and includes links to W3Schools.
 
 
-####################################################################################################################################################
+#####################################################################
 ## Week 1:
 
 ### Day 1: (1 hour each topic)
@@ -83,10 +83,10 @@ This roadmap guides you from a beginner to an expert in PHP within a month, with
   - [W3Schools: PHP MySQL Delete Data](https://www.w3schools.com/php/php_mysql_delete.asp)
 - **Topic:** Prepared Statements
   - [W3Schools: PHP Prepared Statements](https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
-####################################################################################################################################################
+#####################################################################
 
 
-####################################################################################################################################################
+#####################################################################
 ## Week 2:
 
 ### Day 1: (1 hour each topic)
@@ -144,10 +144,10 @@ This roadmap guides you from a beginner to an expert in PHP within a month, with
   - [Laravel 10.x Documentation: MVC](https://laravel.com/docs/10.x/structure#the-model-view-controller-architecture)
 - **Topic:** Blade Templates
   - [Laravel 10.x Documentation: Blade Templates](https://laravel.com/docs/10.x/blade)
-####################################################################################################################################################
+#####################################################################
 
 
-####################################################################################################################################################
+#####################################################################
 ## Week 3:
 
 ### Day 1: (1 hour each topic)
@@ -217,10 +217,10 @@ This roadmap guides you from a beginner to an expert in PHP within a month, with
   - [Laravel 10.x Documentation: Pagination](https://laravel.com/docs/10.x/pagination)
 - **Topic:** API Resources
   - [Laravel 10.x Documentation: API Resources](https://laravel.com/docs/10.x/eloquent-resources)
-####################################################################################################################################################
+#####################################################################
 
 
-####################################################################################################################################################
+#####################################################################
 ## Week 4:
 
 ### Day 1: (1 hour each topic)
@@ -258,7 +258,7 @@ This roadmap guides you from a beginner to an expert in PHP within a month, with
 ### Day 5: (1 hour each topic)
 - **Topic:** Accessment Test  (This will include all knowledge previously)
   - Task or project
-####################################################################################################################################################
+#####################################################################
 
 
 This roadmap is designed for a normal learning pace with a thorough understanding of PHP concepts and hands-on practice. Make sure to dedicate time each day to learning and practicing PHP.
